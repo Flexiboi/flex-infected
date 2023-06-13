@@ -13,4 +13,6 @@ Infect all players to win<br/><br/>
 **You will need**<br/>
 **QB-Menu:** https://github.com/qbcore-framework/qb-menu
 <br/>
+**Polyzone:** https://github.com/mkafrin/PolyZone
+<br/>
 Anything else can be cahnged in config.
