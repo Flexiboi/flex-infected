@@ -1,16 +1,16 @@
-**_[OLD PROJECT SO WONT UPDATE/FIX]_**
-**QB-Core Call of duty / battleroyal inspired infected game mode**
+**_[OLD PROJECT SO WONT UPDATE/FIX]_**<br/>
+**QB-Core Call of duty / battleroyal inspired infected game mode**<br/><br/>
 
-**How to play?**
-Make a game (host)
-Start game when everyone ahd joined is ready
-Each player will spawn randomly inside the circle (which the center is set in the config)
-After X seconds a player will turn zombie and can start infectng other players
-The zone will get smaller every x seconds
-If player touches zone he will die and become zombie if he hasnt already
-Infect all players to win
+**How to play?**<br/>
+Make a game (host)<br/>
+Start game when everyone ahd joined is ready<br/>
+Each player will spawn randomly inside the circle (which the center is set in the config)<br/>
+After X seconds a player will turn zombie and can start infectng other players<br/>
+The zone will get smaller every x seconds<br/>
+If player touches zone he will die and become zombie if he hasnt already<br/>
+Infect all players to win<br/><br/>
 
-**You will need**
+**You will need**<br/>
 **QB-Menu:** https://github.com/qbcore-framework/qb-menu
-
+<br/>
 Anything else can be cahnged in config.
